@@ -1,2 +1,5 @@
-# 4SF22CI019_SL2
-This repository contains code related to assignments given by TCE-Skill lab as a part of Full Stack Development  program (2022-26:3rd Sem)
+# Skill_Lab-Assignments
+   Name : `Apoorva Edakkana`<br>
+    USN : `4SF22CI019`<br>
+Section : `3B-AIML`<br>
+* This repository contains code related to assignments given by `TCE-Skill Lab` as a part of `Full Stack Development Course (2022-26)`.<br>
